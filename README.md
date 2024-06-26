@@ -1,4 +1,4 @@
-**Predictive Analysis Based ML-Project**
+# **Predictive Analysis Based ML-Project**
 
 # Description: 
 PrediabeticPro is an end-to-end machine learning project using Logistics Regression technique, designed to predict the likelihood of diabetes in individuals based on various health metrics. Utilizing advanced algorithms and data analysis techniques, this project aims to provide an accurate and user-friendly tool for early diabetes detection.
