@@ -14,6 +14,6 @@ Early detection of diabetes can significantly improve the quality of life and he
 
 # Accessibility of the Model:
 Use the below URLs for using the model.
-```https://prediabeticpro.onrender.com```
-```https://prediabeticpro.onrender.com/predictdata```
+* ```https://prediabeticpro.onrender.com```
+* ```https://prediabeticpro.onrender.com/predictdata```
 
